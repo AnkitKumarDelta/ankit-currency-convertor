@@ -1,0 +1,26 @@
+{
+  "name": "ankit-currency-convertor",
+  "version": "1.0.0",
+  "description": "an npm package to convert currency",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnkitKumarDelta/ankit-currency-convertor.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Ankit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnkitKumarDelta/ankit-currency-convertor/issues"
+  },
+  "homepage": "https://github.com/AnkitKumarDelta/ankit-currency-convertor#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
